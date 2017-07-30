@@ -1,0 +1,6 @@
+This file is to control the generic configurations of all the scripts, algorithms in the pipeline.
+Some tools like opensmile need their own extraction config file for extraction.
+
+opensmile/
+	  audio_features_configfile
+

@@ -1,0 +1,5 @@
+This file contains:
+1. Tools for extracting audio (.mp3) from video files (.wav,.mp4,etc.)
+2. Tools for extracting audio features (Opensmile)
+3. Tools for extracting video features (OpenFace)
+4. Tools for Text preprocessing

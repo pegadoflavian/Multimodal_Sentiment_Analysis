@@ -1,0 +1,6 @@
+The features related to all modalities are saved here.
+The organization is as follows:
+dataset_name/
+	    audio_features/
+	    video_features/
+	    text_features/

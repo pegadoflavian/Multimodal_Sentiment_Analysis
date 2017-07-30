@@ -1,0 +1,3 @@
+This file contains all the data needed for the processing 
+You should copy your data in this folder.
+Also, this is included in git ignore
