@@ -1,0 +1,2 @@
+opensmile:
+  features: ['mfcc','energy','prosody']#,'lsp']
